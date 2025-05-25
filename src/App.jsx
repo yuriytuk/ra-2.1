@@ -1,11 +1,9 @@
 import './App.css'
-import Portfolio from './component/portfolio'
+import Portfolio from './component/Portfolio'
 
 function App() {
   return (
-    <div>
-      <Portfolio />
-    </div>
+    <Portfolio />
   )
 }
 
